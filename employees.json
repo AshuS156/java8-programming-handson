@@ -1,0 +1,123 @@
+[
+  {
+    "employeeId": "59-385-1088",
+    "firstName": "Zacharias",
+    "lastName": null,
+    "email": "zschwerin0@altervista.org",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "FALSE",
+    "salary": 101146,
+    "rating": 0
+  },
+  {
+    "employeeId": "73-274-6476",
+    "firstName": "Kyle",
+    "lastName": null,
+    "email": "kfrudd1@ovh.net",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "TRUE",
+    "salary": 29310,
+    "rating": 2
+  },
+  {
+    "employeeId": "85-939-9584",
+    "firstName": "Axe",
+    "lastName": "Gumb",
+    "email": "agumb2@twitter.com",
+    "gender": "Female",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "salary": 62291,
+    "rating": 4
+  },
+  {
+    "employeeId": "08-180-8292",
+    "firstName": "Robinet",
+    "lastName": "Batterham",
+    "email": "rbatterham3@last.fm",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "TRUE",
+    "salary": 142439,
+    "rating": 4
+  },
+  {
+    "employeeId": "21-825-2623",
+    "firstName": "Ulick",
+    "lastName": "Burrel",
+    "email": "uburrel4@google.ru",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "salary": 128764,
+    "rating": 5
+  },
+  {
+    "employeeId": "66-708-5539",
+    "firstName": "Tailor",
+    "lastName": "Ridding",
+    "email": "tridding5@shinystat.com",
+    "gender": "Female",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "salary": 152924,
+    "rating": 5
+  },
+  {
+    "employeeId": "81-697-2363",
+    "firstName": "Joete",
+    "lastName": "Braybrooke",
+    "email": "jbraybrooke6@prnewswire.com",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "salary": 128907,
+    "rating": 0
+  },
+  {
+    "employeeId": "63-019-1110",
+    "firstName": "Elroy",
+    "lastName": "Baverstock",
+    "email": "ebaverstock7@ehow.com",
+    "gender": "Male",
+    "newJoiner": "TRUE",
+    "learningPending": "TRUE",
+    "salary": 2510,
+    "rating": 0
+  },
+  {
+    "employeeId": "79-021-3776",
+    "firstName": "Sella",
+    "lastName": "Americi",
+    "email": "samerici8@archive.org",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "salary": 190528,
+    "rating": 3
+  },
+  {
+    "employeeId": "94-203-3411",
+    "firstName": "Stanly",
+    "lastName": "Hughes",
+    "email": "shughes9@utexas.edu",
+    "gender": "Female",
+    "newJoiner": "FALSE",
+    "learningPending": "FALSE",
+    "salary": 124133,
+    "rating": 4
+  },
+  {
+    "employeeId": "77-740-8405",
+    "firstName": "Marlane",
+    "lastName": "Winship",
+    "email": "mwinshipa@reuters.com",
+    "gender": "Male",
+    "newJoiner": "FALSE",
+    "learningPending": "TRUE",
+    "salary": 37583,
+    "rating": 4
+  }
+]
